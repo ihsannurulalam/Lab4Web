@@ -25,7 +25,7 @@
 
 
 # IMPLEMENTASI KONSEP MODULARISASI
-![video 1](Video/1.mp4)
+![video 1](video/1.mp4)
  
 Berikut untuk source code/codingan untuk hasil seperti dalam video
 1. (.htacces)
