@@ -25,7 +25,7 @@
 
 
 # IMPLEMENTASI KONSEP MODULARISASI
-![video 1](video/1.mp4)
+https://user-images.githubusercontent.com/92742499/232250016-0acc8fe3-b830-476b-b797-e75e65f6c99f.mp4
  
 Berikut untuk source code/codingan untuk hasil seperti dalam video
 1. (.htacces)
